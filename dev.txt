@@ -4,6 +4,8 @@
 
 after long time login to git to check the git-gerrit integration:
 
+now again started to working on git -gerrit integrations
+
 
 
 
