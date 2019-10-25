@@ -1,7 +1,8 @@
 
+
  adding new file in working tre
 
-
+after long time login to git to check the git-gerrit integration:
 
 
 
